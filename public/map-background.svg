@@ -1,0 +1,26 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#A8DADC" />
+  
+  <!-- Land masses -->
+  <path d="M0 0H300C350 50 400 20 450 70C500 120 550 100 600 150C650 200 700 180 750 230C800 280 800 300 800 300V600H0V0Z" fill="#90BE6D" />
+  
+  <!-- Mountains -->
+  <path d="M100 100L150 50L200 100H100Z" fill="#6A994E" />
+  <path d="M300 150L350 80L400 150H300Z" fill="#6A994E" />
+  <path d="M500 100L550 30L600 100H500Z" fill="#6A994E" />
+  
+  <!-- Rivers -->
+  <path d="M200 0C200 0 220 100 250 150C280 200 300 250 280 300C260 350 200 400 220 450C240 500 300 550 300 600" stroke="#457B9D" stroke-width="10" />
+  <path d="M600 0C600 0 580 50 550 100C520 150 500 200 520 250C540 300 600 350 580 400C560 450 500 500 500 600" stroke="#457B9D" stroke-width="10" />
+  
+  <!-- Lakes -->
+  <circle cx="400" cy="300" r="50" fill="#457B9D" />
+  <circle cx="150" cy="400" r="30" fill="#457B9D" />
+  <circle cx="650" cy="200" r="40" fill="#457B9D" />
+  
+  <!-- Paths -->
+  <path d="M100 200C100 200 200 220 250 250C300 280 350 300 400 300C450 300 500 280 550 250C600 220 700 200 700 200" stroke="#F4A261" stroke-width="5" stroke-dasharray="10 5" />
+  <path d="M200 100C200 100 250 150 300 200C350 250 400 300 400 350C400 400 350 450 300 500C250 550 200 600 200 600" stroke="#F4A261" stroke-width="5" stroke-dasharray="10 5" />
+  <path d="M600 100C600 100 550 150 500 200C450 250 400 300 400 350C400 400 450 450 500 500C550 550 600 600 600 600" stroke="#F4A261" stroke-width="5" stroke-dasharray="10 5" />
+</svg>
