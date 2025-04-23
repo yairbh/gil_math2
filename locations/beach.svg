@@ -1,0 +1,18 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Beach location -->
+  <circle cx="50" cy="50" r="40" fill="#F9C74F" />
+  
+  <!-- Ocean -->
+  <path d="M10 50C10 50 20 40 30 45C40 50 50 40 60 45C70 50 80 40 90 45V90H10V50Z" fill="#277DA1" />
+  
+  <!-- Palm tree -->
+  <rect x="40" y="40" width="5" height="20" fill="#BC6C25" />
+  <path d="M30 40C30 40 35 30 42.5 40C50 30 55 40 55 40" fill="#4D908E" />
+  
+  <!-- Sun -->
+  <circle cx="80" cy="20" r="10" fill="#F8961E" />
+  
+  <!-- Beach ball -->
+  <circle cx="25" cy="60" r="5" fill="#F94144" />
+  <path d="M20 60L30 60M25 55L25 65" stroke="white" stroke-width="1" />
+</svg>
